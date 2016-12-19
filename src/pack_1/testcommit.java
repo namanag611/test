@@ -31,7 +31,7 @@ public class testcommit {
 		} catch (Exception ex) {
 			System.out.println(ex);
 			Assert.fail();
-			// this is test
+			// this is test file
 		}
 	}
 }
